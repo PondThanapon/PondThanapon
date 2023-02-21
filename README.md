@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Mobile developer
 ----------------------------------
 
-I am a software developer who started my own technology company, Lucky Cat Tech Solution Co., Ltd., at the age of 25. I have a passion for problem-solving and creating software products, and I saw an opportunity to start a company that would allow me to turn that passion into a career. My long-term goal is to grow and expand my company in the field of technology, with a focus on developing innovative and high-quality software products. As an entrepreneur, I have the business acumen to drive growth and success, and as a software developer, I have the technical skills and expertise to create these products. While managing a team can be challenging, I understand that building a strong team is essential for achieving my long-term goals. As the founder of my company, I have the responsibility of creating a positive and productive work environment that fosters teamwork, collaboration, and innovation. I am committed to developing my leadership skills to build a strong team and achieve success.
+I am a software developer who started my own technology company, Lucky Cat Tech Solution Co., Ltd., at the age of 25. I have a passion for problem-solving and creating software products, and I saw an opportunity to start a company that would allow me to turn that passion into a career. 
+
+My long-term goal is to grow and expand my company in the field of technology, with a focus on developing innovative and high-quality software products. As an entrepreneur, I have the business acumen to drive growth and success, and as a software developer, I have the technical skills and expertise to create these products. 
+
+While managing a team can be challenging, I understand that building a strong team is essential for achieving my long-term goals. As the founder of my company, I have the responsibility of creating a positive and productive work environment that fosters teamwork, collaboration, and innovation. I am committed to developing my leadership skills to build a strong team and achieve success.
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://luckycat.co.th)
