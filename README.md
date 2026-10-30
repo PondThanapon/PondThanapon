@@ -46,12 +46,6 @@ I am a software developer who started my own technology company, Lucky Cat Tech 
 
 <p align="left"> <a href="https://www.facebook.com/thanaponIU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;<a href="https://www.github.com/PondThanapon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp; <a href="http://www.instagram.com/pn_thanapon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PondThanapon/Pangpond_Hello" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PondThanapon&repo=Pangpond_Hello&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/PondThanapon/whereapi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PondThanapon&repo=whereapi&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/pondthanapon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
